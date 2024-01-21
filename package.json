@@ -8,7 +8,7 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mateen James",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.0",
